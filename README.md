@@ -1,8 +1,8 @@
 
 
-![Frontend Screenshot](https://raw.githubusercontent.com/SamiurRahmanMukul/Hotel-Room-Booking-System/main/frontend-screenshot.png)
 
-# 🏖️ Beach Resort | smart-travel-booking-platform
+
+# 🏖️ # 🌍 Smart Travel Booking & Checkout Platform
 
 
 A comprehensive full-stack hotel room booking and management system built with modern web technologies. This application provides a complete solution for hotel room reservations, user management, and administrative operations.
@@ -415,26 +415,29 @@ cd admin-panel && npm run lint
 - Build and deploy to static hosting platforms
 - Update API configurations for production
 
-## 👥 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+
+## 🚀 Enhancements & Contributions
+
+- Rebranded and redesigned UI for improved user experience
+- Added booking workflow improvements and checkout flow
+- Enhanced API integration and error handling
+- Improved responsiveness and performance optimization
 
 ## 📄 License
 
 This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
 
+
+
 ## 👨‍💻 Author
 
-### Md. Samiur Rahman (Mukul)
+### Rahul Prakash
 
-- 🌐 Website: [srmukul.com](https://srmukul.com)
-- 📧 Email: [contact@srmukul.com](mailto:contact@srmukul.com)
-- 🐙 GitHub: [@SamiurRahmanMukul](https://github.com/SamiurRahmanMukul)
-- 💼 LinkedIn: [@SamiurRahmanMukul](https://www.linkedin.com/in/SamiurRahmanMukul)
+- GitHub: https://github.com/Rahul-curious
+- Email: rahulprakash7033@gmail.com
+
+
 
 ## 🙏 Acknowledgments
 
@@ -450,23 +453,10 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
   <strong>⭐ If you found this project helpful, please give it a star! ⭐</strong>
 </p>
 
-<!-- my social media links -->
 
-[facebook-url]: https://www.facebook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
 
-<!-- shield icon links -->
 
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
 
-<!-- live preview links -->
 
-[admin-panel-link]: https://admin-beach-resort.vercel.app
-[frontend-link]: https://mukul-beach-resort.vercel.app
+
+
